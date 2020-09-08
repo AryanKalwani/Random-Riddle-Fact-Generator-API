@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/67fee744-b80a-4ea7-807c-205ada1a3337/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/randomfactgenerator",
+    "appService.deploySubpath": "."
+}
